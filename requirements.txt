@@ -1,0 +1,6 @@
+google-adk==1.14.0
+mcp>=1.2.0
+python-dotenv==1.0.1
+
+
+# Note for sqlite3 use local storage
