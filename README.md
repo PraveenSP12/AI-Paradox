@@ -59,9 +59,3 @@ To satisfy the MCP requirement, we built an open-source Python FastMCP server co
 * Python 3.11+
 * `uv` package manager installed
 * Google Gemini API Key
-
-**Steps:**
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-   cd ai-paradox
